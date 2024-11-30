@@ -11,3 +11,23 @@ Nama Anggota :
 
 - Model user account
 ![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134508.png?raw=true)
+
+- Halaman Login
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20130840.png?raw=true)
+
+- Halaman register
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20132719.png?raw=true)
+
+- Lupa password
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20132738.png?raw=true)
+
+- h
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
