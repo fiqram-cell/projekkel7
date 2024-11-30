@@ -8,3 +8,6 @@ Nama Anggota :
 
 - Halaman django administration
 ![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20161156.png?raw=true)
+
+- Model user account
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134508.png?raw=true)
