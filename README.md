@@ -6,4 +6,5 @@ Nama Anggota :
 4. Fiqram_230907501001
 5. ⁠Nur indah sari_210907500012
 
-![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20130717.png?raw=true)
+- Halaman django administration
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20161156.png?raw=true)
