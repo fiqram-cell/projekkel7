@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        /* Gaya Umum */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #005f73; /* Biru Laut */
+            color: white;
+            padding: 10px 20px;
+        }
+
+        header nav {
+            display: flex;
+            justify-content: flex-start; /* Menu berdekatan */
+            align-items: center;
+            gap: 15px;
+        }
+
+        header nav a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            font-size: 1rem;
+        }
+
+        header nav a:hover {
+            text-decoration: underline;
+        }
+
+        .hero {
+            background-image: url('https://i.pinimg.com/originals/33/8e/de/338ede5f9f949b9c4cc6c1c0c15c6a00.jpg'); /* Gambar banner placeholder */
+            background-size: cover;
+            background-position: center;
+            height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-top: 10px;
+        }
+
+        .hero a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #0077b6;
+            color: white;
+            text-decoration: none;
+            font-size: 1rem;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .hero a:hover {
+            background-color: #0096c7;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #005f73;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{% url 'home' %}">Home</a>
+            <a href="{% url 'product_list' %}">Produk</a>
+            <a href="{% url 'cart_detail' %}">Keranjang</a>
+            <a href="{% url 'checkout' %}">Checkout</a>
+        </nav>
+    </header>
+
+    <div class="hero">
+        <div>
+            <h1>Selamat Datang di Toko Kami!</h1>
+            <p>Temukan produk terbaik dengan harga terbaik hanya untuk Anda.</p>
+            <a href="{% url 'product_list' %}">Lihat Produk Sekarang</a>
+        </div>
+    </div>
+
+    <main>
+        <h2>Tentang Kami</h2>
+        <p>Kami menyediakan berbagai produk berkualitas dengan harga yang kompetitif. Selamat berbelanja di toko kami!</p>
+    </main>
+
+    <footer>
+        <p>© 2024 Your Shop</p>
+    </footer>
+</body>
+</html>

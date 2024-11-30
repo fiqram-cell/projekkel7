@@ -1,0 +1,124 @@
+/* Global Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #007bb5, #00b0ff); /* Biru Laut */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Header and Intro Text */
+h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Form Elements */
+.register-form .form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: #3282b8; /* Biru Laut */
+    outline: none;
+}
+
+/* Submit Button */
+button.submit-btn-modal {
+    width: 100%;
+    background-color: #3282b8; /* Biru Laut */
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.submit-btn-modal:hover {
+    background-color: #276e93; /* Biru Laut Lebih Gelap */
+}
+
+/* Messages */
+.messages {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.messages li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: #d1ecf1; /* Latar Biru Laut Muda */
+    color: #0c5460; /* Teks Biru Laut */
+    font-size: 14px;
+}
+
+.text-error {
+    color: #721c24;
+    background-color: #f8d7da;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+/* Footer Links */
+.text-reset-password {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.text-reset-password a {
+    color: #3282b8; /* Biru Laut */
+    text-decoration: none;
+}
+
+.text-reset-password a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,125 @@
+/* Global Style */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #007bb5, #00b0ff); /* Warna biru laut */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Menggunakan seluruh tinggi layar */
+    overflow: hidden; /* Menghindari scroll */
+}
+
+/* Container Formulir Login */
+.service-container-password {
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px 35px;
+    width: 100%;
+    max-width: 450px; /* Lebar form maksimal */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Shadow untuk efek pop-up */
+    position: relative;
+    z-index: 1;
+}
+
+/* Judul Form Login */
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 26px;
+}
+
+/* Deskripsi Form Login */
+p {
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+/* Group Form Input */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Label untuk Input */
+label {
+    font-weight: bold;
+    color: #333;
+    font-size: 14px;
+}
+
+/* Input Field */
+input {
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+/* Efek ketika input di-fokus */
+input:focus {
+    outline: none;
+    border-color: #007bb5;
+    box-shadow: 0 0 5px rgba(0, 123, 181, 0.5);
+}
+
+/* Tombol Login */
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bb5;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Efek Hover pada Tombol Login */
+button:hover {
+    background-color: #005f8e;
+}
+
+/* Link untuk Reset Password dan Register */
+.text-reset-password-sm {
+    margin-top: 15px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.text-reset-password-sm a {
+    color: #007bb5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.text-reset-password-sm a:hover {
+    text-decoration: underline;
+}
+
+/* Style untuk pesan error atau alert */
+.messages {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.messages li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.messages .error {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
