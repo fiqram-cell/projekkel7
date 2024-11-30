@@ -26,6 +26,7 @@ Nama Anggota :
 
 - Menambahkan produk
 ![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134653.png?raw=true)
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20164348.png?raw=true)
 
 - Menambahkan cart item
 ![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134713.png?raw=true)
