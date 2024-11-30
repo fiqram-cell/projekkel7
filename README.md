@@ -21,13 +21,32 @@ Nama Anggota :
 - Lupa password
 ![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20132738.png?raw=true)
 
-- h
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
+- Model for sale (katalog)
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134450.png?raw=true)
+
+- Menambahkan produk
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134653.png?raw=true)
+
+- Menambahkan cart item
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134713.png?raw=true)
+
+- Menambahkan kategori
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134739.png?raw=true)
+
+- Menambahkan item pesanan
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134750.png?raw=true)
+
+- Menambahkan pesanan
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20134802.png?raw=true)
+
+- Halaman home
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20130717.png?raw=true)
+
+- Halaman produk
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20130734.png?raw=true)
+
+- Halaman keranjang
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20130753.png?raw=true)
+
+- Halaman checkout
+![alt text](https://github.com/fiqram-cell/projekkel7/blob/main/SS%20TAMPILAN%20ECOM/Screenshot%202024-11-30%20130813.png?raw=true)
